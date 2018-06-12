@@ -75,7 +75,7 @@ career-profile:
             <li><a href="https://seleniumcamp.com/talk/the-essential-tools-for-test-code-quality-improvement">SeleniumCamp 18</a> speaker</li>
           </ul></div>
 
-            <div>Started career as a manual QA. Have passed a long way from Junior up to Test Lead position. Have 3+ years experience in a management of test teams up to 5 members for projects of different complexity. Since 2012 have been fully concentrated on software test automation (mostly web direction). Developed several selenium-driven frameworks with successful usage experience on big projects.</div>
+            <div>Started career as a manual QA. Have passed a long way from Junior up to Test Lead position. Have 4+ years experience in a management of test teams up to 5 members for projects of different complexity. Since 2012 have been fully concentrated on software test automation (mostly web direction). Developed several selenium-driven frameworks with successful usage experience on big projects.</div>
             <div>Consulting and mentoring automation engineers within local / customers teams and via external consulting services. Providing internal QAA trainings. Actively participating in code review processes. Continuously improving skills in Java and latest web automation trends. Tech talks / conferences speaker. QAA blogger.</div>
             <div>Strong experience in testing of large scale, highly available / specific private B2C / B2B applications including Internet shops, jobs / health & care sites, cloud payment solutions, financial and secret government applications, etc.</div>
             <div>Strong knowledge of software testing fundamentals, testing throughout the software life cycle, test design techniques, test management and tool support for testing.</div>
@@ -92,7 +92,7 @@ studies:
 
 projects:
     title: Projects
-    intro: "A list of open source and commercial projects I've been working on for the past 5 years. Please note that commercial projects names are not real due to DNA."
+    intro: "Here you can find a list of open source and commercial projects I've been working on for the past 5 years. Please note that commercial projects names are not real due to DNA."
 
     projects:
       - project:
