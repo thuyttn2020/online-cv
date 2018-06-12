@@ -4,44 +4,51 @@
 
 sidebar:
     # Site Settings
-    title: My Resume
-    url: 'http://webjeda.com'
-    about: true # set to False or comment line if you want to remove the "How to use?" in the sidebar
+    title: Sergey Korol CV
+    url: 'https://github.com/sskorol/online-cv'
+    about: False # set to False or comment line if you want to remove the "How to use?" in the sidebar
     
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Sergey Korol
+    tagline: Lead QA Automation
     pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    twitter: '@webjeda'
+    email: serhii.s.korol@gmail.com
+    linkedin: serhiikorol
+    github: sskorol
+    twitter: '@ss_korol'
 
     languages:
         - language:
-          idiom: English
+          idiom: Ukrainian
           level: Native
         - language:
-          idiom: French
-          level: Professional
+          idiom: Russian
+          level: Native
         - language:
-          idiom: Spanish
-          level: Professional
+          idiom: English
+          level: Advanced
         
     interests:
         - interest:
-          item: Climbing
-          link:
+          item: Sport
+          link: https://metalistfitness.com.ua
         - interest:
-          item: Snowboarding
-          link:
+          item: Travelling
+          link: https://www.instagram.com/s_korol
         - interest:
-          item: Cooking
-          link:
+          item: Testing / Programming
+          link: https://github.com/sskorol
+        - interest:
+          item: IoT
+          link: https://youtu.be/Mj1ncHkBj_g
+        - interest:
+          item: Consulting / Mentoring
+          link: http://sdclabs.com
+        - interest:
+          item: Public Speaking
+          link: https://www.youtube.com/watch?v=gBzUN52kodo&list=PLwP4JKXOLdPNS21LULLMRujEtU_9GrX16
 
         
 
@@ -50,78 +57,60 @@ sidebar:
 
 career-profile: 
     title: Career Profile
-    text: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+    text: '<div><ul>
+            <li>~9 years experience in Software Testing.</li>
+            <li>~7 years experience in Test Automation.</li>
+            <li>Strong knowledge: Java 8, Selenium WebDriver / Grid, Appium, SikuliX, TestNG, Allure, Jenkins, Git / Stash, Docker, REST, SQL.</li>
+            <li>Experience in creating test automation frameworks / raising up automation infrastructure from scratch.</li>
+            <li>ISTQB certified tester.</li>
+            <li>Contributing to <a href="https://github.com/atinfo/at.info-knowledge-base">AT-INFO</a>, <a href="https://github.com/allure-framework">Allure</a>, <a href="https://github.com/cbeust/testng">TestNG</a></li>
+            <li><a href="https://github.com/sskorol">GitHub</a> profile</li>
+            <li><a href="https://stackoverflow.com/users/8461668/sergey-korol">StackOverflow</a> profile</li>
+            <li>Moderating and posting at <a href="http://automated-testing.info/users/artoflife/activity">AT-INFO</a></li>
+            <li>Google <a href="http://qa-automation-notes.blogspot.com">blogger</a></li>
+            <li>GitHub <a href="https://sskorol.github.io">blogger</a></li>
+            <li>Software Development <a href="http://sdclabs.com">consulting service</a></li>
+            <li><a href="http://seleniumcamp.com/talk/effective-ui-tests-scaling-on-java">SeleniumCamp 16</a> speaker</li>
+            <li><a href="http://seleniumcamp.com/talk/how-java-8-can-simplify-test-automation">SeleniumCamp 17</a> speaker</li>
+            <li><a href="https://seleniumcamp.com/talk/the-essential-tools-for-test-code-quality-improvement">SeleniumCamp 18</a> speaker</li>
+          </ul></div>
+          
+            <div>Started career as a manual QA. Have passed a long way from Junior up to Test Lead position. Have 3+ years experience in a management of test teams up to 5 members for projects of different complexity. Since 2012 have been fully concentrated on software test automation (mostly web direction). Developed several selenium-driven frameworks with successful usage experience on big projects.</div>
+            <div>Consulting and mentoring automation engineers within local / customers teams and via external consulting services. Providing internal QAA trainings. Actively participating in code review processes. Continuously improving skills in Java and latest web automation trends. Tech talks / conferences speaker. QAA blogger.</div>
+            <div>Strong experience in testing of large scale, highly available / specific private B2C / B2B applications including Internet shops, jobs / health & care sites, cloud payment solutions, financial and secret government applications, etc.</div>
+            <div>Strong knowledge of software testing fundamentals, testing throughout the software life cycle, test design techniques, test management and tool support for testing.</div>
+          '
 
 
 studies: 
     - education:
-      degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-      elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-      magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem."
-
-    - education:
-      degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-      elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-      magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem."
+      degree: MSc in System Analysis and Management
+      university: National Technical University "Kharkiv Polytechnic Institute"
+      time: 2004 - 2010
+      details: "For these 6 years we covered: 5 programming languages, 7 mathematics, algorythms theory, optimization methods, system administration, etc."
 
 
 projects:
     title: Projects
-    intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-      sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+    intro: "A list of open source and commercial projects I've been working on for the past 9 years."
     
     projects:
       - project:
-        title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        title: Test Data Supplier
+        link: "https://github.com/sskorol/test-data-supplier"
+        tagline: "Extended TestNG DataProvider."
       - project:
-        title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        title: WebDriver Supplier
+        link: "https://github.com/sskorol/webdriver-supplier"
+        tagline: "A small library which helps managing web browsers lifecycle."
       - project:
-        title: Tempo
+        title: Trading platform
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-      - project:
-        title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-      - project:
-        title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-
-publications:
-    title: Publications
-    intro: "You can list your publications in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
-    
-    publications:
-      - paper:
-        title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-      - paper:
-        title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-      - paper:
-        title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        tagline: "ToDo"
 
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills &amp; Proficiency - ToDo
     skills:
         - skill:
           name: Python & Django
