@@ -91,7 +91,7 @@ studies:
 
 projects:
     title: Projects
-    intro: "Here you can find a list of open source and commercial projects I've been working on for the past 5 years. Please note that commercial projects names are not real due to DNA."
+    intro: "Here you can find a list of open source and commercial projects I've been working on for the past 5 years. Please note that commercial projects names are not real due to NDA."
 
     projects:
       - project:
