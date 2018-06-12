@@ -1,5 +1,5 @@
 #
-# Be aware that even a small syntax error here can lead to failures in output. 
+# Be aware that even a small syntax error here can lead to failures in output.
 #
 
 sidebar:
@@ -7,12 +7,12 @@ sidebar:
     title: Sergey Korol CV
     url: 'https://github.com/sskorol/online-cv'
     about: False # set to False or comment line if you want to remove the "How to use?" in the sidebar
-    
+
     # Profile information
     name: Sergey Korol
     tagline: Lead QA Automation
-    pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-    
+    pic: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
     # Sidebar links
     email: serhii.s.korol@gmail.com
     linkedin: serhiikorol
@@ -29,7 +29,7 @@ sidebar:
         - language:
           idiom: English
           level: Advanced
-        
+
     interests:
         - interest:
           item: Sport
@@ -50,12 +50,12 @@ sidebar:
           item: Public Speaking
           link: https://www.youtube.com/watch?v=gBzUN52kodo&list=PLwP4JKXOLdPNS21LULLMRujEtU_9GrX16
 
-        
 
 
 
 
-career-profile: 
+
+career-profile:
     title: Career Profile
     text: '<div><ul>
             <li>~9 years experience in Software Testing.</li>
@@ -74,7 +74,7 @@ career-profile:
             <li><a href="http://seleniumcamp.com/talk/how-java-8-can-simplify-test-automation">SeleniumCamp 17</a> speaker</li>
             <li><a href="https://seleniumcamp.com/talk/the-essential-tools-for-test-code-quality-improvement">SeleniumCamp 18</a> speaker</li>
           </ul></div>
-          
+
             <div>Started career as a manual QA. Have passed a long way from Junior up to Test Lead position. Have 3+ years experience in a management of test teams up to 5 members for projects of different complexity. Since 2012 have been fully concentrated on software test automation (mostly web direction). Developed several selenium-driven frameworks with successful usage experience on big projects.</div>
             <div>Consulting and mentoring automation engineers within local / customers teams and via external consulting services. Providing internal QAA trainings. Actively participating in code review processes. Continuously improving skills in Java and latest web automation trends. Tech talks / conferences speaker. QAA blogger.</div>
             <div>Strong experience in testing of large scale, highly available / specific private B2C / B2B applications including Internet shops, jobs / health & care sites, cloud payment solutions, financial and secret government applications, etc.</div>
@@ -82,7 +82,7 @@ career-profile:
           '
 
 
-studies: 
+studies:
     - education:
       degree: MSc in System Analysis and Management
       university: National Technical University "Kharkiv Polytechnic Institute"
@@ -92,8 +92,8 @@ studies:
 
 projects:
     title: Projects
-    intro: "A list of open source and commercial projects I've been working on for the past 9 years."
-    
+    intro: "A list of open source and commercial projects I've been working on for the past 5 years. Please note that commercial projects names are not real due to DNA."
+
     projects:
       - project:
         title: Test Data Supplier
@@ -106,31 +106,82 @@ projects:
       - project:
         title: Trading platform
         link: "#"
-        tagline: "ToDo"
+        tagline: "One of the world’s largest options exchange & the leader in product innovation, options education & trading volume."
+      - project:
+        title: Digital Commerce platform
+        link: "#"
+        tagline: "Real-time, transactional system designed to more efficiently
+                  support the growing volume and complexity of services that
+                  require real-time processing. It combines extremely efficient,
+                  transactional event processing with a highly flexible pricing,
+                  rating, policy, and aggregation engine. It performs transactional
+                  rating and charging for communications and media products and
+                  services, policy decision making based on traffic-type criteria,
+                  and event aggregation for usage analysis."
+      - project:
+        title: Global Payments platform
+        link: "#"
+        tagline: "Highly scalable, multi-tenanted EMEA Global Payments platform
+                  capable of being hosted which will allows the Client to deliver
+                  payments solutions. The project has 2 identified phases with the
+                  initial focus on EMEA Payments requirements for a ‘cloud’
+                  option for the Client’s customer base (approx. 10k customers with
+                  multiple users). First phase includes BACS payments and Admin
+                  features for PT-X. Second phase scope includes Direct Debit
+                  Management system."
+      - project:
+        title: Health &amp; Care platform
+        link: "#"
+        tagline: "Complex solution for patients caregivers and
+                  therapists. System components are supposed to provide up-to-date
+                  information about state of a patient, history of treatment and
+                  reports via PC based interface, mobile devices. Automation test
+                  framework is developed for UI part of the system."
 
 
 skills:
-    title: Skills &amp; Proficiency - ToDo
+    title: Skills &amp; Proficiency
     skills:
         - skill:
-          name: Python & Django
-          level: 98%
+          name: Software Testing / Quality Assurance
+          level: 90%
         - skill:
-          name: Javascript & jQuery
-          level: 98%
-        - skill:
-          name: Angular
-          level: 98%
-        - skill:
-          name: HTML5 & CSS
-          level: 95%
-        - skill:
-          name: Ruby on Rails
+          name: QA Automation
           level: 85%
         - skill:
-          name: Sketch & Photoshop
-          level: 60%
+          name: Selenium / TestnNG / Allure
+          level: 95%
+        - skill:
+          name: Appium
+          level: 80%
+        - skill:
+          name: JMeter / Gatling
+          level: 70%
+        - skill:
+          name: Java / OOP / Design Patterns
+          level: 80%
+        - skill:
+          name: Spring / Hibernate / Jersey
+          level: 55%
+        - skill:
+          name: Gradle / Maven
+          level: 90%
+        - skill:
+          name: MySQL / MS SQL, Oracle, InfluxDB
+          level: 70%
+        - skill:
+          name: Git
+          level: 90%
+        - skill:
+          name: Jenkins
+          level: 90%
+        - skill:
+          name: Docker
+          level: 70%
+        - skill:
+          name: IoT
+          level: 30%
 
 
-footer: 
+footer:
     text: 'Designed with <i class="fa fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> for developers'
