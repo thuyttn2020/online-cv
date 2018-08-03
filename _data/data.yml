@@ -160,6 +160,9 @@ skills:
           name: Java / OOP / Design Patterns
           level: 80%
         - skill:
+          name: Javascript
+          level: 15%
+        - skill:
           name: Spring / Hibernate / Jersey
           level: 55%
         - skill:
