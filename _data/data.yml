@@ -143,6 +143,10 @@ projects:
         title: WebDriver Supplier
         link: "https://github.com/sskorol/webdriver-supplier"
         tagline: "A small library which helps managing web browsers lifecycle."
+      - project:
+        title: Test Automation Playground
+        link: "https://github.com/sskorol/test-automation-playground"
+        tagline: "ReactJS application with Spring Boot / MySQL backend created for practicing automation skills."
 
 
 skills:
