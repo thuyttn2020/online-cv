@@ -96,13 +96,11 @@ projects:
 
     projects:
       - project:
-        title: Test Data Supplier
-        link: "https://github.com/sskorol/test-data-supplier"
-        tagline: "Extended TestNG DataProvider."
-      - project:
-        title: WebDriver Supplier
-        link: "https://github.com/sskorol/webdriver-supplier"
-        tagline: "A small library which helps managing web browsers lifecycle."
+        title: HyperDynamic (HD) platform
+        link: "#"
+        tagline: "HD platform presents NVM Express (NVMe) storage to compute nodes over high-speed storage fabrics. 
+                  HD software can virtualize hundreds of NVM drives and present them as a single volume—similar to a high performance storage array, 
+                  or it can map an individual compute node to an individual drive—similar to a direct-storage access system."
       - project:
         title: Trading platform
         link: "#"
@@ -137,6 +135,14 @@ projects:
                   information about state of a patient, history of treatment and
                   reports via PC based interface, mobile devices. Automation test
                   framework is developed for UI part of the system."
+      - project:
+        title: Test Data Supplier
+        link: "https://github.com/sskorol/test-data-supplier"
+        tagline: "Extended TestNG DataProvider."
+      - project:
+        title: WebDriver Supplier
+        link: "https://github.com/sskorol/webdriver-supplier"
+        tagline: "A small library which helps managing web browsers lifecycle."
 
 
 skills:
@@ -152,6 +158,9 @@ skills:
           name: Selenium / TestnNG / Allure
           level: 95%
         - skill:
+          name: Mocha / Chai / WebDriverIO
+          level: 60%
+        - skill:
           name: Appium
           level: 70%
         - skill:
@@ -162,7 +171,7 @@ skills:
           level: 80%
         - skill:
           name: Javascript
-          level: 15%
+          level: 40%       
         - skill:
           name: Spring / Hibernate / Jersey
           level: 55%
