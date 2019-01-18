@@ -58,9 +58,9 @@ sidebar:
 career-profile:
     title: Career Profile
     text: '<div><ul>
-            <li>9 years experience in Software Testing.</li>
-            <li>7 years experience in Test Automation.</li>
-            <li>Strong knowledge: Java 8, Selenium WebDriver / Grid, Appium, SikuliX, TestNG, Allure, Jenkins, Git / Stash, Docker, REST, SQL.</li>
+            <li>9.5 years experience in Software Testing.</li>
+            <li>7.5 years experience in Test Automation.</li>
+            <li>Strong knowledge: Java 8, Selenium WebDriver / Grid / Selenoid, Appium, SikuliX, TestNG, Allure, Jenkins, Git, Docker, REST, SQL.</li>
             <li>Experience in creating test automation frameworks / raising up automation infrastructure from scratch.</li>
             <li>ISTQB certified tester.</li>
             <li>Contributing to <a href="https://github.com/atinfo/at.info-knowledge-base">AT-INFO</a>, <a href="https://github.com/allure-framework">Allure</a>, <a href="https://github.com/cbeust/testng">TestNG</a></li>
@@ -73,10 +73,10 @@ career-profile:
             <li><a href="http://seleniumcamp.com/talk/effective-ui-tests-scaling-on-java">SeleniumCamp 16</a> speaker</li>
             <li><a href="http://seleniumcamp.com/talk/how-java-8-can-simplify-test-automation">SeleniumCamp 17</a> speaker</li>
             <li><a href="https://seleniumcamp.com/talk/the-essential-tools-for-test-code-quality-improvement">SeleniumCamp 18</a> speaker</li>
-            <li>QAFest 18 speaker</li>            
+            <li><a href="https://youtu.be/GOT2CJ54QaM">QAFest 18</a> speaker</li>            
           </ul></div>
 
-            <div>Started career as a manual QA. Have passed a long way from Junior up to Test Lead position. Have 4+ years experience in a management of test teams up to 5 members for projects of different complexity. Since 2012 have been fully concentrated on software test automation (mostly web direction). Developed several selenium-driven frameworks with successful usage experience on big projects.</div><br>
+            <div>Started career as a manual QA. Have passed a long way from Junior up to Test Lead position. Have 5+ years experience in a management of test teams up to 5 members for projects of different complexity. Since 2012 have been fully concentrated on software test automation (mostly web direction). Developed several selenium-driven frameworks with successful usage experience on big projects.</div><br>
             <div>Consulting and mentoring automation engineers within local / customers teams and via external consulting services. Providing internal QAA trainings. Actively participating in code review processes. Continuously improving skills in Java / JS and latest web automation trends. Tech talks / conferences speaker. QAA blogger.</div><br>
             <div>Strong experience in testing of large scale, highly available / specific private B2C / B2B applications including Internet shops, jobs / health & care sites, cloud payment solutions, financial and secret government applications, etc.</div><br>
             <div>Strong knowledge of software testing fundamentals, testing throughout the software life cycle, test design techniques, test management and tool support for testing.</div>'
@@ -95,6 +95,10 @@ projects:
     intro: "Here you can find a list of open source and commercial projects I've been working on for the past 5 years. Please note that commercial projects names are not real due to NDA."
 
     projects:
+      - project:
+        title: Smart Assistant
+        link: "#"
+        tagline: "Voice assistant / chat bot, managed by different Google services: Speech / Functions API, SQL Cloud, Kubernetes, etc."    
       - project:
         title: HyperDynamic (HD) platform
         link: "#"
@@ -157,13 +161,13 @@ skills:
           level: 90%
         - skill:
           name: QA Automation
-          level: 85%
+          level: 90%
         - skill:
           name: Selenium / TestnNG / Allure
           level: 95%
         - skill:
           name: Mocha / Chai / WebDriverIO
-          level: 60%
+          level: 70%
         - skill:
           name: Appium
           level: 70%
@@ -174,8 +178,8 @@ skills:
           name: Java / OOP / Design Patterns
           level: 80%
         - skill:
-          name: Javascript
-          level: 40%       
+          name: Javascript / Typescript
+          level: 50%       
         - skill:
           name: Spring / Hibernate / Jersey
           level: 55%
@@ -194,6 +198,9 @@ skills:
         - skill:
           name: Docker
           level: 70%
+        - skill:
+          name: AWS / Google services
+          level: 40%          
         - skill:
           name: IoT
           level: 30%
