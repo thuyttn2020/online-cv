@@ -63,12 +63,10 @@ career-profile:
             <li>Strong knowledge: Java, Selenium WebDriver / Grid / Selenoid, Appium, SikuliX, TestNG, Allure, Jenkins, Git, Docker, REST, SQL.</li>
             <li>Experience in creating test automation frameworks / raising up automation infrastructure from scratch.</li>
             <li>ISTQB certified tester.</li>
-            <li>Contributing to <a href="https://github.com/atinfo/at.info-knowledge-base">AT-INFO</a>, <a href="https://github.com/allure-framework">Allure</a>, <a href="https://github.com/cbeust/testng">TestNG</a>, <a href="https://github.com/webdriverio/webdriverio">WebdriverIO</a>, <a href="https://github.com/allure-framework/allure-js">Allure-JS</a></li>
+            <li>Contributing to <a href="https://github.com/atinfo/at.info-knowledge-base"><b>AT-INFO</b></a>, <a href="https://github.com/allure-framework"><b>Allure</b></a>, <a href="https://github.com/cbeust/testng"><b>TestNG</b></a>, <a href="https://github.com/webdriverio/webdriverio"><b>WebdriverIO</b></a>, <a href="https://github.com/allure-framework/allure-js"><b>Allure-JS</b></a></li>
             <li><a href="https://github.com/sskorol"><b>GitHub</b></a> profile</li>
-            <li><a href="https://stackoverflow.com/users/8461668/sergey-korol">StackOverflow</a> profile</li>
-            <li>Moderating and posting at <a href="http://automated-testing.info/users/artoflife/activity">AT-INFO</a></li>
-            <li>Google <a href="http://qa-automation-notes.blogspot.com">blogger</a></li>
-            <li>GitHub <a href="https://sskorol.github.io">blogger</a></li>
+            <li><a href="https://stackoverflow.com/users/8461668/sergey-korol"><b>StackOverflow</b></a> profile</li>
+            <li>Moderating and posting at <a href="http://automated-testing.info/users/artoflife/activity"><b>AT-INFO</b></a></li>
             <li>Software Development <a href="http://sdclabs.com"><b>consulting service</b></a></li>
             <li><a href="http://seleniumcamp.com/talk/effective-ui-tests-scaling-on-java"><b>SeleniumCamp 16</b></a> speaker</li>
             <li><a href="http://seleniumcamp.com/talk/how-java-8-can-simplify-test-automation"><b>SeleniumCamp 17</b></a> speaker</li>
@@ -168,7 +166,7 @@ skills:
           level: 95%
         - skill:
           name: Mocha / Chai / WebDriverIO
-          level: 70%
+          level: 80%
         - skill:
           name: Appium
           level: 70%
@@ -180,10 +178,10 @@ skills:
           level: 80%
         - skill:
           name: Javascript / Typescript
-          level: 50%       
+          level: 60%       
         - skill:
           name: Spring / Hibernate / Jersey
-          level: 55%
+          level: 60%
         - skill:
           name: Gradle / Maven
           level: 90%
@@ -201,10 +199,10 @@ skills:
           level: 70%
         - skill:
           name: AWS / Google services
-          level: 40%          
+          level: 50%          
         - skill:
           name: IoT
-          level: 30%
+          level: 35%
 
 
 footer:
