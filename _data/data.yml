@@ -33,7 +33,7 @@ sidebar:
     interests:
         - interest:
           item: Sport
-          link: https://metalistfitness.com.ua
+          link: http://gagarina.gym4fit.com
         - interest:
           item: Travelling
           link: https://www.instagram.com/s_korol
@@ -42,13 +42,13 @@ sidebar:
           link: https://github.com/sskorol
         - interest:
           item: IoT
-          link: https://youtu.be/Mj1ncHkBj_g
+          link: https://www.youtube.com/playlist?list=PLwP4JKXOLdPN89B1oyJqpxHoH4sAl6F8W
         - interest:
           item: Consulting / Mentoring
           link: http://sdclabs.com
         - interest:
           item: Public Speaking
-          link: https://www.youtube.com/watch?v=gBzUN52kodo&list=PLwP4JKXOLdPNS21LULLMRujEtU_9GrX16
+          link: https://www.youtube.com/playlist?list=PLwP4JKXOLdPNS21LULLMRujEtU_9GrX16
 
 
 
@@ -180,7 +180,7 @@ skills:
           name: Javascript / Typescript
           level: 60%       
         - skill:
-          name: Spring / Hibernate / Jersey
+          name: Spring / Hibernate
           level: 60%
         - skill:
           name: Gradle / Maven
@@ -199,10 +199,10 @@ skills:
           level: 70%
         - skill:
           name: AWS / Google services
-          level: 50%          
+          level: 55%          
         - skill:
           name: IoT
-          level: 35%
+          level: 45%
 
 
 footer:
