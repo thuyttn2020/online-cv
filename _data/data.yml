@@ -58,8 +58,8 @@ sidebar:
 career-profile:
     title: Career Profile
     text: '<div><ul>
-            <li>9.5 years experience in Software Testing.</li>
-            <li>7.5 years experience in Test Automation.</li>
+            <li>10 years experience in Software Testing.</li>
+            <li>8 years experience in Test Automation.</li>
             <li>Strong knowledge: Java, Selenium WebDriver / Grid / Selenoid, Appium, SikuliX, TestNG, Allure, Jenkins, Git, Docker, REST, SQL.</li>
             <li>Experience in creating test automation frameworks / raising up automation infrastructure from scratch.</li>
             <li>ISTQB certified tester.</li>
@@ -68,11 +68,7 @@ career-profile:
             <li><a href="https://stackoverflow.com/users/8461668/sergey-korol"><b>StackOverflow</b></a> profile</li>
             <li>Moderating and posting at <a href="https://automated-testing.info/u?period=all"><b>AT-INFO</b></a></li>
             <li>Software Development <a href="http://sdclabs.com"><b>consulting service</b></a></li>
-            <li><a href="http://seleniumcamp.com/talk/effective-ui-tests-scaling-on-java"><b>SeleniumCamp 16</b></a> speaker</li>
-            <li><a href="http://seleniumcamp.com/talk/how-java-8-can-simplify-test-automation"><b>SeleniumCamp 17</b></a> speaker</li>
-            <li><a href="https://seleniumcamp.com/talk/the-essential-tools-for-test-code-quality-improvement"><b>SeleniumCamp 18</b></a> speaker</li>
-            <li><a href="https://youtu.be/GOT2CJ54QaM"><b>QAFest 18</b></a> speaker</li>            
-            <li><a href="https://youtu.be/3C0CuJvvWuE"><b>SeleniumCamp 19</b></a> speaker</li>
+            <li><a href="https://www.youtube.com/playlist?list=PLwP4JKXOLdPNS21LULLMRujEtU_9GrX16"><b>QAFest and SeleniumCamp</b></a> speaker</li>
           </ul></div>
 
             <div>Started career as a manual QA. Have passed a long way from Junior up to Test Lead position. Have 5+ years experience in a management of test teams up to 5 members for projects of different complexity. Since 2012 have been fully concentrated on software test automation (mostly web direction). Developed several selenium-driven frameworks with successful usage experience on big projects.</div><br>
@@ -97,7 +93,7 @@ projects:
       - project:
         title: Smart Assistant
         link: "#"
-        tagline: "Voice assistant / chat bot, managed by different Google services: Speech / Functions API, SQL Cloud, Kubernetes, etc."    
+        tagline: "Voice assistant / chat bot, managed by different Google services: Speech API, SQL Cloud, Kubernetes, etc."    
       - project:
         title: HyperDynamic (HD) platform
         link: "#"
@@ -178,15 +174,18 @@ skills:
           level: 80%
         - skill:
           name: Javascript / Typescript
-          level: 60%       
+          level: 65%       
         - skill:
           name: Spring / Hibernate
           level: 60%
         - skill:
+          name: NestJS / TypeORM
+          level: 70%
+        - skill:
           name: Gradle / Maven
           level: 90%
         - skill:
-          name: MySQL / MS SQL, Oracle, InfluxDB
+          name: SQL / NoSQL DB
           level: 70%
         - skill:
           name: Git
@@ -202,7 +201,7 @@ skills:
           level: 55%          
         - skill:
           name: IoT
-          level: 45%
+          level: 50%
 
 
 footer:
