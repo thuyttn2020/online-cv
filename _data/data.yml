@@ -95,77 +95,78 @@ projects:
       - project:
         title: Smart Assistant
         link: "#"
-        tagline: '<div>Description: Voice assistant / chatbot, managed by different Google services.</div>
-                  <div>Role: Backend Developer, Tech Lead.</div>
-                  <div><ul>Stack:
+        tagline: '<div><b>Description</b>: Voice assistant / chatbot, managed by different Google services.</div>
+                  <div><b>Role</b>: Backend Developer, Tech Lead.</div>
+                  <div><b>Stack</b>:</div>
+                  <div><ul>
                     <li>BE: Typescript, NestJS/Typeorm, Jest, Python, Flask, ML (numpy, scikit-learn, NLTK, FastText, Annoy)</li>
                     <li>FE: ReactJS, MobX, Jest</li>
                     <li>Google Cloud: STT/TTS, SQL Cloud, Datastore, Kubernetes Engine</li>
                     <li>Test Automation: Mocha, Chai, WebdriverIO, AllureJS, Selenoid, Docker</li>
-                    <li>CI/CD: GitHub + Azure Pipelines</li></ul><div>'
+                    <li>CI/CD: GitHub + Azure Pipelines</li></ul></div>'
       - project:
         title: HyperDynamic (HD) platform
         link: "#"
-        tagline: "Description: HD platform presents NVM Express (NVMe) storage to compute nodes over high-speed storage fabrics. 
+        tagline: '<div><b>Description</b>: HD platform presents NVM Express (NVMe) storage to compute nodes over high-speed storage fabrics. 
                   HD software can virtualize hundreds of NVM drives and present them as a single volume—similar to a high performance storage array, 
-                  or it can map an individual compute node to an individual drive—similar to a direct-storage access system.
-                  
-                  Role: Lead Test Automation Engineer.
-                  Stack:
-                      - Javascript, Mocha, Chai, WebdriverIO, AllureJS, Selenoid, Docker
-                      - AWS Cloud: EC2
-                      - CI/CD: GitHub, Jenkins"
+                  or it can map an individual compute node to an individual drive—similar to a direct-storage access system.</div>
+                  <div><b>Role</b>: Lead Test Automation Engineer.</div>
+                  <div><b>Stack</b>:</div>
+                  <div><ul>
+                    <li>Javascript, Mocha, Chai, WebdriverIO, AllureJS, Selenoid, Docker</li>
+                    <li>AWS Cloud: EC2</li>
+                    <li>CI/CD: GitHub, Jenkins</li></ul></div>'
       - project:
         title: Trading platform
         link: "#"
-        tagline: "Description: One of the world’s largest options exchange & the leader in product innovation, options education & trading volume.
-                  Role: Lead Test Automation Engineer.
-                  Stack:
-                      - Java, Gradle, TestNG, Allure, RestAssured, Selenoid, Docker
-                      - CI/CD: Bitbucket, Jenkins"
+        tagline: '<div><b>Description</b>: One of the world’s largest options exchange & the leader in product innovation, options education & trading volume.</div>
+                  <div><b>Role</b>: Lead Test Automation Engineer.</div>
+                  <div><b>Stack</b>:</div>
+                  <div><ul>
+                    <li>Java, Gradle, TestNG, Allure, RestAssured, Selenoid, Docker</li>
+                    <li>CI/CD: Bitbucket, Jenkins</li></ul></div>'
       - project:
         title: Digital Commerce platform
         link: "#"
-        tagline: "Description: Real-time, transactional system designed to more efficiently
+        tagline: '<div><b>Description</b>: Real-time, transactional system designed to more efficiently
                   support the growing volume and complexity of services that
                   require real-time processing. It combines extremely efficient,
                   transactional event processing with a highly flexible pricing,
                   rating, policy, and aggregation engine. It performs transactional
                   rating and charging for communications and media products and
                   services, policy decision making based on traffic-type criteria,
-                  and event aggregation for usage analysis.
-                  
-                  Role: Lead Test Automation Engineer.
-                  Stack:
-                      - Java, Maven, Appium, Selenium Grid, TestNG, Allure, RestAssured
-                      - CI/CD: GitHub, Jenkins"
+                  and event aggregation for usage analysis.</div>
+                  <div><b>Role</b>: Lead Test Automation Engineer.</div>
+                  <div><b>Stack</b>:</div>
+                  <div><ul>
+                    <li>Java, Maven, Appium, Selenium Grid, TestNG, Allure, RestAssured</li>
+                    <li>CI/CD: GitHub, Jenkins</li></ul></div>'
       - project:
         title: Global Payments platform
         link: "#"
-        tagline: "Highly scalable, multi-tenanted EMEA Global Payments platform
+        tagline: '<div><b>Description</b>: Highly scalable, multi-tenanted EMEA Global Payments platform
                   capable of being hosted which will allows the Client to deliver
                   payments solutions. The project has 2 identified phases with the
                   initial focus on EMEA Payments requirements for a ‘cloud’
                   option for the Client’s customer base (approx. 10k customers with
                   multiple users). First phase includes BACS payments and Admin
                   features for PT-X. Second phase scope includes Direct Debit
-                  Management system.
-                  
-                  Role: Senior/Lead Test Automation Engineer.
-                  Stack:
-                      - Java/Scala, Maven, Selenium WebDriver/Grid, TestNG, Allure, SikuliX, Gatling
-                      - CI/CD: Bitbucket, Jenkins"
+                  Management system.</div>
+                  <div><b>Role</b>: Senior/Lead Test Automation Engineer.</div>
+                  <div><b>Stack</b>:</div>
+                  <div><ul>
+                    <li>Java/Scala, Maven, Selenium WebDriver/Grid, TestNG, Allure, SikuliX, Gatling</li>
+                    <li>CI/CD: Bitbucket, Jenkins</li></ul></div>'
       - project:
         title: Health &amp; Care platform
         link: "#"
-        tagline: "Complex solution for patients caregivers and
+        tagline: '<div><b>Description</b>: Complex solution for patients caregivers and
                   therapists. System components are supposed to provide up-to-date
                   information about state of a patient, history of treatment and
                   reports via PC based interface, mobile devices. Automation test
-                  framework is developed for UI part of the system.
-                  
-                  Role: Senior Test Automation Engineer.
-                  Stack: Java, Maven, TestNG, SikuliX"
+                  framework is developed for UI part of the system.</div>
+                  <div><b>Role</b>: Senior Test Automation Engineer.</div>
+                  <div><b>Stack</b>: Java, Maven, TestNG, SikuliX</div>'
       - project:
         title: Test Data Supplier
         link: "https://github.com/sskorol/test-data-supplier"
