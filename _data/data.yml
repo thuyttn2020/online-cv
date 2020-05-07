@@ -58,7 +58,7 @@ career-profile:
             <li>Strong knowledge: Java/TS, Selenium WebDriver/Grid, Selenoid, Appium, SikuliX, WebdriverIO, TestNG/Mocha, Allure, RestAssured, Jenkins, Git, Docker, REST, SQL, Google Cloud.</li>
             <li>Experience in creating test automation frameworks / raising up automation infrastructure from scratch.</li>
             <li>Certifications: <a href="https://www.coursera.org/account/accomplishments/professional-cert/J35RUADXFBFQ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharebutton_course&utm_product=prof"><b>Cloud Engineering with Google Cloud</b></a>, ISTQB.</li>
-            <li>Open source contributions: <a href="https://github.com/atinfo/at.info-knowledge-base"><b>AT-INFO</b></a>, <a href="https://github.com/allure-framework"><b>Allure</b></a>, <a href="https://github.com/cbeust/testng"><b>TestNG</b></a>, <a href="https://github.com/webdriverio/webdriverio"><b>WebdriverIO</b></a>, <a href="https://github.com/allure-framework/allure-js"><b>Allure-JS</b></a>, <a href="https://github.com/alphacep/vosk-server"><b>VOSK</b></a> + pet projects</li>
+            <li>Open source contributions: <a href="https://github.com/atinfo/at.info-knowledge-base"><b>AT-INFO</b></a>, <a href="https://github.com/allure-framework"><b>Allure</b></a>, <a href="https://github.com/cbeust/testng"><b>TestNG</b></a>, <a href="https://github.com/webdriverio/webdriverio"><b>WebdriverIO</b></a>, <a href="https://github.com/allure-framework/allure-js"><b>Allure-JS</b></a>, <a href="https://github.com/alphacep/vosk-server"><b>VOSK</b></a></li>
             <li>Moderating and posting at <a href="https://automated-testing.info/u?period=all"><b>AT-INFO</b></a></li>
             <li>Software Development <a href="http://sdclabs.com"><b>consulting service</b></a></li>
             <li><a href="https://www.youtube.com/playlist?list=PLwP4JKXOLdPNS21LULLMRujEtU_9GrX16"><b>QAFest and SeleniumCamp</b></a> speaker</li>
@@ -104,7 +104,7 @@ projects:
     - title: Smart Assistant
       link: "#"
       tagline: 'Voice assistant / chatbot, managed by different Google services.
-                  <br><div><u>Role</u>: Backend Developer, Tech Lead.</div>
+                  <div><br><u>Role</u>: Backend Developer, Tech Lead.</div>
                   <div><u>Stack</u>:</div>
                   <div><ul>
                     <li>BE: Typescript, NestJS/Typeorm, Jest, Python, Flask, ML (numpy, scikit-learn, NLTK, FastText, Annoy)</li>
@@ -118,7 +118,7 @@ projects:
       tagline: 'HD platform presents NVM Express (NVMe) storage to compute nodes over high-speed storage fabrics.
                 HD software can virtualize hundreds of NVM drives and present them as a single volume—similar to a high performance storage array,
                 or it can map an individual compute node to an individual drive—similar to a direct-storage access system.
-                  <br><div><u>Role</u>: Lead Test Automation Engineer.</div>
+                  <div><br><u>Role</u>: Lead Test Automation Engineer.</div>
                   <div><u>Stack</u>:</div>
                   <div><ul>
                     <li>Javascript, Mocha, Chai, WebdriverIO, AllureJS, Selenoid, Docker</li>
@@ -128,7 +128,7 @@ projects:
     - title: Trading platform
       link: "#"
       tagline: 'One of the world’s largest options exchange & the leader in product innovation, options education & trading volume.
-                  <br><div><u>Role</u>: Lead Test Automation Engineer.</div>
+                  <div><br><u>Role</u>: Lead Test Automation Engineer.</div>
                   <div><u>Stack</u>:</div>
                   <div><ul>
                     <li>Java, Gradle, TestNG, Allure, RestAssured, Selenoid, Docker</li>
@@ -144,7 +144,7 @@ projects:
                   rating and charging for communications and media products and
                   services, policy decision making based on traffic-type criteria,
                   and event aggregation for usage analysis.
-                  <br><div><u>Role</u>: Lead Test Automation Engineer.</div>
+                  <div><br><u>Role</u>: Lead Test Automation Engineer.</div>
                   <div><u>Stack</u>:</div>
                   <div><ul>
                     <li>Java, Maven, Appium, Selenium Grid, TestNG, Allure, RestAssured</li>
@@ -160,7 +160,7 @@ projects:
                   multiple users). First phase includes BACS payments and Admin
                   features for PT-X. Second phase scope includes Direct Debit
                   Management system.
-                  <br><div><u>Role</u>: Senior/Lead Test Automation Engineer.</div>
+                  <div><br><u>Role</u>: Senior/Lead Test Automation Engineer.</div>
                   <div><u>Stack</u>:</div>
                   <div><ul>
                     <li>Java/Scala, Maven, Selenium WebDriver/Grid, TestNG, Allure, SikuliX, Gatling</li>
@@ -173,7 +173,7 @@ projects:
                   information about state of a patient, history of treatment and
                   reports via PC based interface, mobile devices. Automation test
                   framework is developed for UI part of the system.
-                  <br><div><u>Role</u>: Senior Test Automation Engineer.</div>
+                  <div><br><u>Role</u>: Senior Test Automation Engineer.</div>
                   <div><u>Stack</u>: Java, Maven, TestNG, SikuliX</div>'
 
     - title: Test Data Supplier
@@ -214,7 +214,7 @@ skills:
       level: 70%
 
     - name: JMeter / Gatling
-      level: 40%
+      level: 50%
 
     - name: Java / OOP / Design Patterns
       level: 85%
@@ -223,7 +223,7 @@ skills:
       level: 70%
 
     - name: Spring Boot
-      level: 40%
+      level: 50%
 
     - name: NestJS / TypeORM
       level: 75%
