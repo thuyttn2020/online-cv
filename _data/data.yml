@@ -58,12 +58,12 @@ sidebar:
 career-profile:
     title: Career Profile
     text: '<div><ul>
-            <li>10 years experience in Software Testing.</li>
-            <li>8 years experience in Test Automation.</li>
-            <li>Strong knowledge: Java, Selenium WebDriver / Grid / Selenoid, Appium, SikuliX, TestNG, Allure, Jenkins, Git, Docker, REST, SQL.</li>
+            <li>About 11 years experience in Software Testing.</li>
+            <li>About 9 years experience in Test Automation.</li>
+            <li>Strong knowledge: Java/TS, Selenium WebDriver/Grid, Selenoid, Appium, SikuliX, WebdriverIO, TestNG/Mocha, Allure, RestAssured, Jenkins, Git, Docker, REST, SQL, Google Cloud.</li>
             <li>Experience in creating test automation frameworks / raising up automation infrastructure from scratch.</li>
-            <li>ISTQB certified tester.</li>
-            <li>Contributing to <a href="https://github.com/atinfo/at.info-knowledge-base"><b>AT-INFO</b></a>, <a href="https://github.com/allure-framework"><b>Allure</b></a>, <a href="https://github.com/cbeust/testng"><b>TestNG</b></a>, <a href="https://github.com/webdriverio/webdriverio"><b>WebdriverIO</b></a>, <a href="https://github.com/allure-framework/allure-js"><b>Allure-JS</b></a></li>
+            <li>Certifications: <a href="https://www.coursera.org/account/accomplishments/professional-cert/J35RUADXFBFQ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharebutton_course&utm_product=prof"><b>Cloud Engineering with Google Cloud</b></a>, ISTQB.</li>
+            <li>Open source contributions: <a href="https://github.com/atinfo/at.info-knowledge-base"><b>AT-INFO</b></a>, <a href="https://github.com/allure-framework"><b>Allure</b></a>, <a href="https://github.com/cbeust/testng"><b>TestNG</b></a>, <a href="https://github.com/webdriverio/webdriverio"><b>WebdriverIO</b></a>, <a href="https://github.com/allure-framework/allure-js"><b>Allure-JS</b></a>, <a href="https://github.com/alphacep/vosk-server"><b>VOSK</b></a> + pet projects</li>
             <li><a href="https://github.com/sskorol"><b>GitHub</b></a> profile</li>
             <li><a href="https://stackoverflow.com/users/8461668/sergey-korol"><b>StackOverflow</b></a> profile</li>
             <li>Moderating and posting at <a href="https://automated-testing.info/u?period=all"><b>AT-INFO</b></a></li>
@@ -71,9 +71,11 @@ career-profile:
             <li><a href="https://www.youtube.com/playlist?list=PLwP4JKXOLdPNS21LULLMRujEtU_9GrX16"><b>QAFest and SeleniumCamp</b></a> speaker</li>
           </ul></div>
 
-            <div>Started career as a manual QA. Have passed a long way from Junior up to Test Lead position. Have 5+ years experience in a management of test teams up to 5 members for projects of different complexity. Since 2012 have been fully concentrated on software test automation (mostly web direction). Developed several selenium-driven frameworks with successful usage experience on big projects.</div><br>
-            <div>Consulting and mentoring automation engineers within local / customers teams and via external consulting services. Providing internal QAA trainings. Actively participating in code review processes. Continuously improving skills in Java / JS and latest web automation trends. Tech talks / conferences speaker. QAA blogger.</div><br>
-            <div>Strong experience in testing of large scale, highly available / specific private B2C / B2B applications including Internet shops, jobs / health & care sites, cloud payment solutions, financial and secret government applications, etc.</div><br>
+            <div>I started career as a Manual Test Engineer. Have passed a long way from Junior up to Test Lead position. Have 6+ years experience in a management of test teams up to 5 members for projects of different complexity. Since 2012 till 2018 have been fully concentrated on Software Test Automation (mostly web direction). Developed several Selenium-driven frameworks with successful usage experience on big projects.</div><br>
+            <div>Couple of years ago I switched to pure BE Development to get a better understanding of all the internal development processes. In 6 months my proactiveness lead me to a Tech Lead position promotion.<div><br>
+            <div>Consulting and mentoring automation engineers within local / customers teams and via external consulting services. Providing internal Test Automation trainings. Continuously improving skills in Java / TS and latest test automation trends. Tech talks / conferences speaker.</div><br>
+            <div>Participating in company pre-sales and projects’ audits.</div><br>
+            <div>Strong experience in testing of large scale, highly available / specific private B2C / B2B applications including Internet shops, jobs / health & care sites, cloud payment solutions, financial and secret government applications, voice assistants/chatbots, etc.</div><br>
             <div>Strong knowledge of software testing fundamentals, testing throughout the software life cycle, test design techniques, test management and tool support for testing.</div>'
 
 
@@ -93,28 +95,50 @@ projects:
       - project:
         title: Smart Assistant
         link: "#"
-        tagline: "Voice assistant / chat bot, managed by different Google services: Speech API, SQL Cloud, Kubernetes, etc."    
+        tagline: "Description: Voice assistant / chatbot, managed by different Google services.
+                  Role: Backend Developer, Tech Lead.
+                  Stack:
+                      - BE: Typescript, NestJS/Typeorm, Jest, Python, Flask, ML (numpy, scikit-learn, NLTK, FastText, Annoy)
+                      - FE: ReactJS, MobX, Jest
+                      - Google Cloud: STT/TTS, SQL Cloud, Datastore, Kubernetes Engine
+                      - Test Automation: Mocha, Chai, WebdriverIO, AllureJS, Selenoid, Docker
+                      - CI/CD: GitHub + Azure Pipelines"    
       - project:
         title: HyperDynamic (HD) platform
         link: "#"
-        tagline: "HD platform presents NVM Express (NVMe) storage to compute nodes over high-speed storage fabrics. 
+        tagline: "Description: HD platform presents NVM Express (NVMe) storage to compute nodes over high-speed storage fabrics. 
                   HD software can virtualize hundreds of NVM drives and present them as a single volume—similar to a high performance storage array, 
-                  or it can map an individual compute node to an individual drive—similar to a direct-storage access system."
+                  or it can map an individual compute node to an individual drive—similar to a direct-storage access system.
+                  
+                  Role: Lead Test Automation Engineer.
+                  Stack:
+                      - Javascript, Mocha, Chai, WebdriverIO, AllureJS, Selenoid, Docker
+                      - AWS Cloud: EC2
+                      - CI/CD: GitHub, Jenkins"
       - project:
         title: Trading platform
         link: "#"
-        tagline: "One of the world’s largest options exchange & the leader in product innovation, options education & trading volume."
+        tagline: "Description: One of the world’s largest options exchange & the leader in product innovation, options education & trading volume.
+                  Role: Lead Test Automation Engineer.
+                  Stack:
+                      - Java, Gradle, TestNG, Allure, RestAssured, Selenoid, Docker
+                      - CI/CD: Bitbucket, Jenkins"
       - project:
         title: Digital Commerce platform
         link: "#"
-        tagline: "Real-time, transactional system designed to more efficiently
+        tagline: "Description: Real-time, transactional system designed to more efficiently
                   support the growing volume and complexity of services that
                   require real-time processing. It combines extremely efficient,
                   transactional event processing with a highly flexible pricing,
                   rating, policy, and aggregation engine. It performs transactional
                   rating and charging for communications and media products and
                   services, policy decision making based on traffic-type criteria,
-                  and event aggregation for usage analysis."
+                  and event aggregation for usage analysis.
+                  
+                  Role: Lead Test Automation Engineer.
+                  Stack:
+                      - Java, Maven, Appium, Selenium Grid, TestNG, Allure, RestAssured
+                      - CI/CD: GitHub, Jenkins"
       - project:
         title: Global Payments platform
         link: "#"
@@ -125,7 +149,12 @@ projects:
                   option for the Client’s customer base (approx. 10k customers with
                   multiple users). First phase includes BACS payments and Admin
                   features for PT-X. Second phase scope includes Direct Debit
-                  Management system."
+                  Management system.
+                  
+                  Role: Senior/Lead Test Automation Engineer.
+                  Stack:
+                      - Java/Scala, Maven, Selenium WebDriver/Grid, TestNG, Allure, SikuliX, Gatling
+                      - CI/CD: Bitbucket, Jenkins"
       - project:
         title: Health &amp; Care platform
         link: "#"
@@ -133,19 +162,26 @@ projects:
                   therapists. System components are supposed to provide up-to-date
                   information about state of a patient, history of treatment and
                   reports via PC based interface, mobile devices. Automation test
-                  framework is developed for UI part of the system."
+                  framework is developed for UI part of the system.
+                  
+                  Role: Senior Test Automation Engineer.
+                  Stack: Java, Maven, TestNG, SikuliX"
       - project:
         title: Test Data Supplier
         link: "https://github.com/sskorol/test-data-supplier"
         tagline: "Extended TestNG DataProvider."
       - project:
-        title: WebDriver Supplier
-        link: "https://github.com/sskorol/webdriver-supplier"
-        tagline: "A small library which helps managing web browsers lifecycle."
+        title: TS Test Decorators
+        link: "https://github.com/sskorol/ts-test-decorators"
+        tagline: "A small library which allows writing TS tests in OO-manner via decorators."
       - project:
         title: Test Automation Playground
         link: "https://github.com/sskorol/test-automation-playground"
         tagline: "ReactJS application with Spring Boot / MySQL backend created for practicing automation skills."
+      - project:
+        title: Arduino Sensors Wrappers
+        link: "https://github.com/sskorol/arduino-sensors-wrappers"
+        tagline: "A small library which allows quick prototyping for Arduino-like controllers in OO-manner."
 
 
 skills:
@@ -155,34 +191,43 @@ skills:
           name: Software Testing / Quality Assurance
           level: 90%
         - skill:
-          name: QA Automation
+          name: Test Automation
           level: 90%
+        - skill:
+          name: Development
+          level: 70%
         - skill:
           name: Selenium / TestnNG / Allure
           level: 95%
         - skill:
           name: Mocha / Chai / WebDriverIO
-          level: 80%
+          level: 90%
         - skill:
           name: Appium
           level: 70%
         - skill:
           name: JMeter / Gatling
-          level: 50%
+          level: 40%
         - skill:
           name: Java / OOP / Design Patterns
-          level: 80%
+          level: 85%
         - skill:
           name: Javascript / Typescript
-          level: 65%       
+          level: 70%       
         - skill:
-          name: Spring / Hibernate
-          level: 60%
+          name: Spring Boot
+          level: 40%
         - skill:
           name: NestJS / TypeORM
-          level: 70%
+          level: 75%
         - skill:
-          name: Gradle / Maven
+          name: ReactJS / MobX
+          level: 40%
+        - skill:
+          name: Python / Flask
+          level: 35%
+        - skill:
+          name: Gradle / Maven / NPM / Yarn
           level: 90%
         - skill:
           name: SQL / NoSQL DB
@@ -195,10 +240,10 @@ skills:
           level: 90%
         - skill:
           name: Docker
-          level: 70%
+          level: 75%
         - skill:
           name: AWS / Google services
-          level: 55%          
+          level: 65%          
         - skill:
           name: IoT
           level: 50%
