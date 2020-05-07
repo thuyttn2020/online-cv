@@ -95,14 +95,14 @@ projects:
       - project:
         title: Smart Assistant
         link: "#"
-        tagline: "Description: Voice assistant / chatbot, managed by different Google services.
-                  Role: Backend Developer, Tech Lead.
-                  Stack:
-                      - BE: Typescript, NestJS/Typeorm, Jest, Python, Flask, ML (numpy, scikit-learn, NLTK, FastText, Annoy)
-                      - FE: ReactJS, MobX, Jest
-                      - Google Cloud: STT/TTS, SQL Cloud, Datastore, Kubernetes Engine
-                      - Test Automation: Mocha, Chai, WebdriverIO, AllureJS, Selenoid, Docker
-                      - CI/CD: GitHub + Azure Pipelines"    
+        tagline: '<div>Description: Voice assistant / chatbot, managed by different Google services.</div>
+                  <div>Role: Backend Developer, Tech Lead.</div>
+                  <div><ul>Stack:
+                    <li>BE: Typescript, NestJS/Typeorm, Jest, Python, Flask, ML (numpy, scikit-learn, NLTK, FastText, Annoy)</li>
+                    <li>FE: ReactJS, MobX, Jest</li>
+                    <li>Google Cloud: STT/TTS, SQL Cloud, Datastore, Kubernetes Engine</li>
+                    <li>Test Automation: Mocha, Chai, WebdriverIO, AllureJS, Selenoid, Docker</li>
+                    <li>CI/CD: GitHub + Azure Pipelines</li></ul><div>'
       - project:
         title: HyperDynamic (HD) platform
         link: "#"
