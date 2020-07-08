@@ -9,14 +9,12 @@ sidebar:
   # Profile information
   name: Thuy Thi Thu Nguyen
   tagline: QA Engineer
-  avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  avatar: Profile_thuyttn.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: serhii.s.korol@gmail.com
-  linkedin: serhiikorol
-  github: sskorol
-  twitter: '@ss_korol'
-  stack-overflow: 8461668/sergey-korol
+  email: thuynguyen20013@gmail.com
+  linkedin: thuyttn
+  github: thuyttn2020
 
   languages:
     - language:
@@ -29,24 +27,23 @@ sidebar:
 
   interests:
     - interest:
-      item: Sport
-      link: http://gagarina.gym4fit.com
+      item: Reading
+      link: https://www.goodreads.com/book/show/20710712-journey-to-the-east
     - interest:
       item: Travelling
-      link: https://www.instagram.com/s_korol
+      link: https://www.instagram.com/thuynguyen200013
     - interest:
       item: Testing / Programming
-      link: https://github.com/sskorol
+      link: https://github.com/thuyttn2020
     - interest:
-      item: IoT
-      link: https://www.youtube.com/playlist?list=PLwP4JKXOLdPN89B1oyJqpxHoH4sAl6F8W
+      item: Self-learning
+      link: https://www.youtube.com/channel/UCXJKOPxx4O1f63nnfsoiEug
     - interest:
-      item: Consulting / Mentoring
-      link: http://sdclabs.com
+      item: Marketing skill
+      link: https://www.thebalancecareers.com/marketing-skills-list-2062431#types-of-marketing-skills
     - interest:
-      item: Public Speaking
-      link: https://www.youtube.com/playlist?list=PLwP4JKXOLdPNS21LULLMRujEtU_9GrX16
-
+      item: Thich Nhat Hanh
+      link: https://www.youtube.com/playlist?list=PLx3ODzR5V4HbHoOB39ufn-ev3unO2jSyx
 career-profile:
   title: Career Profile
   summary:
@@ -70,11 +67,11 @@ career-profile:
           Strong knowledge of software testing fundamentals, testing throughout the software life cycle, test design techniques, test management and tool support for testing.</div>'
 
 education:
-  - degree: MSc in System Analysis and Management
-    university: National Technical University "Kharkiv Polytechnic Institute"
-    time: 2004 - 2010
+  - degree: MSc in Computer Science
+    university: Ho Chi Minh University of Education 
+    time: 2009 - 2013
     details: |
-      For these 6 years we covered: 5 programming languages, 7 mathematics, algorythms theory, optimization methods, system administration, etc.
+      For these 4 years we covered: 5 programming languages, 7 mathematics, algorythms theory, optimization methods, system administration, etc.
 
 experiences:
   - role: Technical QA Manager, Software Engineer / Tech Lead
