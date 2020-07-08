@@ -7,8 +7,8 @@ sidebar:
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Sergey Korol
-  tagline: Technical QA Manager
+  name: Thuy Thi Thu Nguyen
+  tagline: QA Engineer
   avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
@@ -20,11 +20,9 @@ sidebar:
 
   languages:
     - language:
-      idiom: Ukrainian
+      idiom: Vietnamese
       level: Native
-    - language:
-      idiom: Russian
-      level: Native
+    
     - language:
       idiom: English
       level: Advanced
